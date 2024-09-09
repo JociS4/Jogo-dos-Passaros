@@ -1,5 +1,7 @@
 Jogo Criado no curso NONECLASS
 
+![JogoDosPassaros](https://github.com/user-attachments/assets/b46cf6b9-f3ec-40e9-ae3e-1bdce2ccaa24)
+
 Para fazer o Download do Jogo: https://jocis4.itch.io/jogo-dos-passaros
 
 Créditos aos criadores das Sprites e Sons:
